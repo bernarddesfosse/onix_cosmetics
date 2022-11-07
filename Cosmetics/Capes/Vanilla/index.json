@@ -1,0 +1,67 @@
+{
+    "Content":[
+        {
+            "type": "VanillaCape",
+            "name": "Youtube",
+            "uuid": "897f5c4a-a91a-42bc-ad65-945c898c508c",
+            "url": "https://raw.githubusercontent.com/bernarddesfosse/onix_cosmetics/main/Cosmetics/Capes/Vanilla/youtube.png",
+            "tags": ["Promotional"]
+        },
+        {
+            "type": "VanillaCape",
+            "name": "OnixClient Gradient",
+            "uuid": "ba312197-58a0-4999-ab6d-133fbdd31b47",
+            "url": "https://raw.githubusercontent.com/bernarddesfosse/onix_cosmetics/main/Cosmetics/Capes/Vanilla/OnixClientGradient.png",
+            "tags": ["OnixClient"]
+        },
+        {
+            "type": "VanillaCape",
+            "name": "OnixClient Halloween",
+            "uuid": "29416a32-fd91-49be-b086-2aace290887c",
+            "url": "https://raw.githubusercontent.com/bernarddesfosse/onix_cosmetics/main/Cosmetics/Capes/Vanilla/OnixClientHalloween.png",
+            "tags": ["OnixClient", "Festive"]
+        },
+        {
+            "type": "VanillaCape",
+            "name": "OnixClient Halloween Indent",
+            "uuid": "be2cb93c-b084-47f0-8784-d423ebea08df",
+            "url": "https://raw.githubusercontent.com/bernarddesfosse/onix_cosmetics/main/Cosmetics/Capes/Vanilla/OnixClientHalloweenIndent.png",
+            "tags": ["OnixClient", "Indent", "Festive"]
+        },
+        {
+            "type": "VanillaCape",
+            "name": "OnixClient Indent",
+            "uuid": "f66e8a5d-c723-41cf-a3d1-c1d210bdb416",
+            "url": "https://raw.githubusercontent.com/bernarddesfosse/onix_cosmetics/main/Cosmetics/Capes/Vanilla/OnixClientIndent.png",
+            "tags": ["OnixClient", "Indent"]
+        },
+        {
+            "type": "VanillaCape",
+            "name": "Among Us 1",
+            "uuid": "a07c8597-5aea-4eb7-85c0-76092eea7f89",
+            "url": "https://raw.githubusercontent.com/bernarddesfosse/onix_cosmetics/main/Cosmetics/Capes/Vanilla/amongUs.png",
+            "tags": ["SUS"]
+        },
+        {
+            "type": "VanillaCape",
+            "name": "Baguette",
+            "uuid": "d1fa8e1c-3f90-4b23-b184-4188eef54cbf",
+            "url": "https://raw.githubusercontent.com/bernarddesfosse/onix_cosmetics/main/Cosmetics/Capes/Vanilla/baguetteCape.png",
+            "tags": ["Food"]
+        },
+        {
+            "type": "VanillaCape",
+            "name": "PatarHD",
+            "uuid": "2062bedf-0b4b-4600-8994-84141777dfb2",
+            "url": "https://raw.githubusercontent.com/bernarddesfosse/onix_cosmetics/main/Cosmetics/Capes/Vanilla/patarhd.png",
+            "tags": ["Promotional"]
+        },
+        {
+            "type": "VanillaCape",
+            "name": "Wasteque",
+            "uuid": "dda4a543-21fe-4753-a16c-9bf9ca7b7795",
+            "url": "https://raw.githubusercontent.com/bernarddesfosse/onix_cosmetics/main/Cosmetics/Capes/Vanilla/wasteque.png",
+            "tags": ["Friend"]
+        }
+    ]
+}
